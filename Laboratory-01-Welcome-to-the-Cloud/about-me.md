@@ -1,5 +1,16 @@
-About Me
-Greetings! I am Jhuniel Malala Laureta, an Information Technology student enrolled in CCM101 – Cloud Computing.
+# About Me
 
-About This Repository
-This repository is created to serve as my collection of laboratory work for CCM101 – Cloud Computing throughout the semester. It contains my completed tasks, hands-on activities, screenshots, personal reflections, and the knowledge and abilities I acquire while studying cloud computing and using Linux-based environments.
+## Name
+Jhuniel Laureta
+
+## Course
+BS Information Technology
+
+## Subject
+CCM101 – Cloud Computing
+
+## About Me
+I am an IT student learning about cloud computing and Linux.
+
+## Goals
+I want to improve my skills in Linux, Git, Docker, Kubernetes, and cloud technologies.

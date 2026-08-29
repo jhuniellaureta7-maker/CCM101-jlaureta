@@ -22,7 +22,7 @@ The Linux server is running:
 
 ## 4. Memory
 
-- Total RAM: 1.9 GiB (may swap din na 1.0 GiB)
+- Total RAM: 1.9 GiB
 
 ## 5. Disk Capacity
 

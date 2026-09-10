@@ -56,7 +56,7 @@ AWS is a suitable platform for the global e-commerce company because it provides
 
 ---
 
-# Multi-Cloud Decision Matrix
+# Multi-Cloud Decision Matrix CHECKPOINT 6
 
 | Business Requirement    | Recommended Platform | Justification                                                                  |
 | ----------------------- | -------------------- | ------------------------------------------------------------------------------ |

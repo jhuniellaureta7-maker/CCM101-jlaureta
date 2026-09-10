@@ -32,7 +32,7 @@ Google Cloud is a strong choice for Artificial Intelligence, Machine Learning, a
 
 I would choose **[AWS/Azure/GCP]** because it best matches my priorities and the type of workloads I want to develop. I would also consider the available services, pricing, scalability, documentation, and the technologies used by the organization.
 
-## Equivalent Cloud Services
+## Equivalent Cloud Services CHECKPOINT 5
 
 | Service Category    | AWS        | Azure                          | GCP                            |
 | ------------------- | ---------- | ------------------------------ | ------------------------------ |
